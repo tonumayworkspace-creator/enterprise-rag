@@ -1,5 +1,11 @@
-# 📘 Enterprise Knowledge Assistant (RAG)
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Enterprise--Grade-green)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-black?logo=openai)
+![FAISS](https://img.shields.io/badge/Vector%20DB-FAISS-orange)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-red?logo=streamlit)
+![Status](https://img.shields.io/badge/Status-Production--Ready-success)
 
+# 📘 Enterprise Knowledge Assistant (RAG)
 An **enterprise-grade Retrieval-Augmented Generation (RAG) system** that delivers **accurate, source-grounded answers** over internal knowledge with **hallucination control, refusal logic, evaluation metrics, and a production-style UI**.
 
 This project is designed to reflect **real-world GenAI systems** used in companies — not a tutorial demo.
