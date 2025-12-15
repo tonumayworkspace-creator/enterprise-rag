@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (raw & processed)
+data/
+*.csv
+*.json
+
+# Vector database files
+*.pkl
+*.index
+
+# OS / IDE
+.vscode/
+.streamlit/
+.ipynb_checkpoints/
+.DS_Store
